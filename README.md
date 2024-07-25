@@ -1,7 +1,6 @@
 - Hi 👋, I'm Anonnwesha Guha
 - 👀 I’m interested in Java,HTML & CSS
 - 🌱 I’m currently learning Reactjs and Nodejs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anonnweshaguha.03@gmail.com
 - 😄 Pronouns: Anon:)
 - ⚡ Fun fact: ...
